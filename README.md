@@ -1,5 +1,5 @@
 # Lace
-
+ios simulator screenshot and record automation.
 
 ## Usage
 
