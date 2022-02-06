@@ -10,7 +10,7 @@ class RecordVideo: Command {
     let name: String = "rec"
     let shortDescription: String = "Record screen."
 
-    @Key("-p", "--path", description: "output file path. you can set directory and file name.")
+    @Key("-p", "--path", description: "Output file path. You can set directory and file name.")
     var inputtedFilePath: String?
 
     func execute() throws {
