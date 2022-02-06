@@ -13,7 +13,7 @@ public class LaceCLI {
             exit(EXIT_FAILURE)
         }
 
-        let cli = CLI(name: "lace", version: "0.0.1", description: "ios simulator screenshot and record automation.")
+        let cli = CLI(name: "lace", version: "0.1.0", description: "ios simulator screenshot and record automation.")
 
         cli.commands = [
             ScreenShot(),
