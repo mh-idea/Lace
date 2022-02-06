@@ -3,13 +3,11 @@ ios simulator screenshot and record automation.
 
 ## Usage
 
-### Take Screen Shot
 ```bash
+# Take Screen Shot
 lace shot
-```
 
-### Record Screen
-```bash
+# Record Screen
 lace rec
 ```
 
