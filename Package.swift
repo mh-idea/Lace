@@ -18,7 +18,7 @@ let package = Package(
     targets: [
         .executableTarget(name: "Lace", dependencies: ["LaceCLI"]),
         .target(name: "LaceCLI", dependencies: ["LaceKit", "Rainbow", "PathKit", "SwiftCLI"]),
-        .target(name: "LaceKit", dependencies: ["Rainbow", "PathKit", "SwiftCLI"]),
+        .target(name: "LaceKit", dependencies: ["PathKit", "SwiftCLI"]),
         .testTarget(name: "LaceTests", dependencies: ["Lace"]),
     ]
 )
