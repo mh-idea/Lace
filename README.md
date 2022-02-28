@@ -14,7 +14,6 @@ lace shot
 lace rec
 ```
 
-If you want to specify output path (or name), you can use `--path` option.
 ```bash
 # Specify output directory.
 lace rec ~/Desktop
