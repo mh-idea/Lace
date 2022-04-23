@@ -19,7 +19,7 @@ lace rec
 lace rec ~/Desktop
 
 # Specify output directory and name.
-lace rec ~/Desktop/new.png
+lace rec ~/Desktop/new.mov
 ```
 
 ## Installation
