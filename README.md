@@ -1,5 +1,5 @@
 # Lace
-[![License](https://img.shields.io/github/license/mh-idea/lace)](https://github.com/mh-idea/lace/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/mui-z/lace)](https://github.com/mui-z/lace/blob/main/LICENSE)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?)
 
 ios simulator screenshot and record automation.
