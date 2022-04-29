@@ -2,7 +2,11 @@
 [![License](https://img.shields.io/github/license/mui-z/lace)](https://github.com/mui-z/lace/blob/main/LICENSE)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?)
 
-ios simulator screenshot and record automation.
+ios simulator screenshot and record automation.  
+
+## About
+you can take screenshot from cli.  
+this is xcrun screenshot and record command wrapper.
 
 ## Usage
 
