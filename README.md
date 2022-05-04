@@ -6,7 +6,7 @@ ios simulator screenshot and record automation.
 
 ## About
 you can take screenshot from cli.  
-this is xcrun screenshot and record command wrapper.
+this is `xcrun` screenshot and record command wrapper.
 
 ## Usage
 
